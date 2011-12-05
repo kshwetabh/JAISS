@@ -10,7 +10,7 @@ The current codebase is only a first cut, very initial (kind of POC level) put t
 Also note that I am a noob in Python (just picked up couple of weeks back) and will be refining/refactoring the code
 as and when I become more convergent with this language and features.
 
-To launch the program, launch first.py file which is the entry point of the program. [I know the filename sucks. I told you previously that its not anywhere ready for reuse :)]
+####To launch the program, launch first.py file which is the entry point of the program. [I know the filename sucks. I told you previously that its not anywhere ready for reuse :)]
 
 ### The project is heavily dependent of the below python modules/libs:
 
