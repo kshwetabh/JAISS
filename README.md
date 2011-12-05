@@ -6,9 +6,9 @@ definitely possible to achieve in Python like using Arduino boards, etc), but th
 know what a system can evolve into.
 
 Dependency:
-* Windows OS (for MS Speech API)
-* pyspeech Project
-* python-weather-api Project
+* [Windows OS (for MS Speech API)]
+* [pyspeech Project]
+* [python-weather-api Project]
 
 The current codebase is only a first cut, very initial (kind of POC level) put together code.
 
