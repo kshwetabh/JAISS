@@ -1,7 +1,6 @@
 # JAISS : Just Another Intelligent Speaking System
 
-###Demo: 
-https://www.youtube.com/watch?v=N3COcDApcS0
+###Demo#: https://www.youtube.com/watch?v=N3COcDApcS0
 
 This project is inspired by JARVIS (Just A Rather Very Intelligent System) program in [IRONMAN](http://bit.ly/sJ4lCc) movie.
 Though currently I don't intend to do any interfacing with hardware (as JARVIS does :) and is 
