@@ -5,7 +5,7 @@ Though currently I don't intend to do any interfacing with hardware (as JARVIS d
 definitely possible to achieve in Python like using Arduino boards, etc), but then you never
 know what a system can evolve into.
 
-Dependency:
+### Dependency:
 * [Windows OS (for MS Speech API)]
 * [pyspeech Project]
 * [python-weather-api Project]
